@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri:mongodb+srv://hemanthnv:hemanthnv@cluster0.fmkzb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+    database: tasks
